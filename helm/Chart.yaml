@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-quoted-securities-service
+description: "BIAN Service Domain: Quoted Securities Service (Catalog pattern, Reference Data)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - catalog
+annotations:
+  bian/business-area: "Reference Data"
+  bian/business-domain: "Reference Data"
+  bian/asset-type: "Securities Reference Data"
+  bian/control-record: "Securities Reference Data Directory Entry"
